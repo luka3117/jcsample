@@ -1,0 +1,3 @@
+remove.packages("jcsample")
+
+devtools::install_local("/Users/jclee/jcsample/")
